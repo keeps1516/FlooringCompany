@@ -1,0 +1,15 @@
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DataLayer.dll
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DataLayer.pdb
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DTOs.dll
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DTOs.pdb
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.csprojResolveAssemblyReference.cache
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.dll
+//Mac/Home/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.pdb
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DataLayer.dll
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DataLayer.pdb
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DTOs.dll
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/bin/Debug/FlooringMastery.DTOs.pdb
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.csprojResolveAssemblyReference.cache
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.csproj.CoreCompileInputs.cache
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.dll
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.DataLayer/obj/Debug/FlooringMastery.DataLayer.pdb

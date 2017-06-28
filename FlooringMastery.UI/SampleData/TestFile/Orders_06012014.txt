@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,"”Bob Jones”",Texas,0.01,wood,100,1,2,3,4,5,6
+3,"”Frank Jones”",Texas,0.01,wood,100,1,2,3,4,5,6
+5,"”Jack Jones”",Texas,0.01,wood,100,1,2,3,4,5,6
+29,""Rick James"",Texas,0.01,wood,100,1,2,3,4,5,6

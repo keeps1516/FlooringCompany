@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,"Rick James",OH,6.25,Wood,200,5.15,4.75,1030.00,950.00,123.750000,2103.750000

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9787CAC8-7140-41D8-B9D9-B991CAF27AF8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>FlooringMastery.Testy</RootNamespace>
+    <AssemblyName>FlooringMastery.Testy</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.3.7.1\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WoodTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FlooringMastery.Buisness\FlooringMastery.Buisness.csproj">
+      <Project>{292D6110-BFD4-4C73-B4F1-A1E6CC71D2AE}</Project>
+      <Name>FlooringMastery.Buisness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMastery.DataLayer\FlooringMastery.DataLayer.csproj">
+      <Project>{3E96A15D-FCF2-4640-8BE7-D82ABC48531A}</Project>
+      <Name>FlooringMastery.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMastery.DTOs\FlooringMastery.DTOs.csproj">
+      <Project>{49842D78-A5A9-4545-9DDD-6A3FB912F22D}</Project>
+      <Name>FlooringMastery.DTOs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{ED2F3787-2C51-44E2-8A97-1E7C7CFDEDD5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FlooringMastery.Tests</RootNamespace>
+    <AssemblyName>FlooringMastery.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FlooringMastery.DTOs\FlooringMastery.DTOs.csproj">
+      <Project>{49842D78-A5A9-4545-9DDD-6A3FB912F22D}</Project>
+      <Name>FlooringMastery.DTOs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMastery.DataLayer\FlooringMastery.DataLayer.csproj">
+      <Project>{3E96A15D-FCF2-4640-8BE7-D82ABC48531A}</Project>
+      <Name>FlooringMastery.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMastery.Buisness\FlooringMastery.Buisness.csproj">
+      <Project>{292D6110-BFD4-4C73-B4F1-A1E6CC71D2AE}</Project>
+      <Name>FlooringMastery.Buisness</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.3.7.1\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

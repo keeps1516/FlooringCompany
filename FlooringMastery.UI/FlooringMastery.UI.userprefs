@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{402138CE-F2D0-4DBC-86E6-E2EBABDA3815}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlooringMastery.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlooringMastery.UI/ConsoleOrderdetailsDisplay.cs">
+    <Files>
+      <File FileName="FlooringMastery.UI/Workflows/DisplayOrderWorkflow.cs" Line="51" Column="1" />
+      <File FileName="FlooringMastery.UI/ConsoleOrderdetailsDisplay.cs" Line="25" Column="1" />
+      <File FileName="FlooringMastery.UI/ConsoleIO.cs" Line="14" Column="98" />
+      <File FileName="FlooringMastery.UI/App.config" Line="4" Column="38" />
+      <File FileName="FlooringMastery.DataLayer/TaxFileRepository.cs" Line="1" Column="1" />
+      <File FileName="FlooringMastery.Testy/WoodTests.cs" Line="96" Column="9" />
+      <File FileName="FlooringMastery.UI/Workflows/EditOrderWorkflow.cs" Line="78" Column="91" />
+      <File FileName="FlooringMastery.Buisness/OrderManagerFactory.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

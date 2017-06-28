@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kris,OH,6.25,Tile,200,3.50,4.15,700.00,830.00,95.625000,1625.625000
+2,"Rick James",OH,0,Wood,111,0,0,571.65,527.25,68.681250,1167.581250
+3,"Stuff",OH,6.25,Wood,111,5.15,4.75,571.65,527.25,68.681250,1167.581250

@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,"""Kris Jr.""",OH,6.25,Carpet,300,2.25,2.10,675.00,630.00,81.562500,1386.562500
+2,"Kris",OH,6.25,Carpet,400,2.25,2.10,900.00,840.00,108.750000,1848.750000

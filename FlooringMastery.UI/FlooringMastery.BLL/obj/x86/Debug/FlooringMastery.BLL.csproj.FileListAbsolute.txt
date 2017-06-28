@@ -1,0 +1,2 @@
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.BLL/obj/x86/Debug/FlooringMastery.BLL.csprojResolveAssemblyReference.cache
+/Users/kriskeepers/Documents/Bitbucket/kris-keepers-indivdual-work/FlooringMastery.UI/FlooringMastery.BLL/obj/x86/Debug/FlooringMastery.BLL.csproj.CoreCompileInputs.cache
